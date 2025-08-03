@@ -1,0 +1,15 @@
+.parent > p{
+    background-color: red;
+}
+.sub{
+    margin-left:30px;
+    color:red;
+    background-color:blue;
+    border-radius:5px;
+    border:black solid ;
+}
+
+.sub:hover{
+    opacity:0.7;
+    text-decoration:underline black;
+}
